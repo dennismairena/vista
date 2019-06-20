@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano14_title"><![CDATA[frente]]></data>
+
+  <data name="en_panogroup39_title"><![CDATA[2]]></data>
+
+  <data name="en_pano22_title"><![CDATA[bd2]]></data>
+  <data name="en_pano24_title"><![CDATA[b2]]></data>
+  <data name="en_pano23_title"><![CDATA[wc]]></data>
+
+  <data name="en_panogroup42_title"><![CDATA[1]]></data>
+
+  <data name="en_pano21_title"><![CDATA[bano 1]]></data>
+  <data name="en_pano25_title"><![CDATA[bd1]]></data>
+
+  <data name="en_panogroup46_title"><![CDATA[right]]></data>
+
+  <data name="en_pano29_title"><![CDATA[parqueo]]></data>
+  <data name="en_pano28_title"><![CDATA[bodega]]></data>
+  <data name="en_pano27_title"><![CDATA[atras]]></data>
+
+  <data name="en_panogroup47_title"><![CDATA[left]]></data>
+
+  <data name="en_pano30_title"><![CDATA[escalera]]></data>
+  <data name="en_pano31_title"><![CDATA[entrada]]></data>
+  <data name="en_pano26_title"><![CDATA[afuera]]></data>
+
+  <data name="en_panogroup49_title"><![CDATA[center]]></data>
+
+  <data name="en_pano32_title"><![CDATA[sala]]></data>
+  <data name="en_pano33_title"><![CDATA[pasillo]]></data>
+  <data name="en_pano34_title"><![CDATA[cocina]]></data>
+  <data name="en_pano35_title"><![CDATA[comedor]]></data>
+  <data name="en_pano36_title"><![CDATA[laundry]]></data>
+
+
+	<data name="en_spotmap1036_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1037_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1038_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1039_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1040_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1041_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1042_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1043_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1044_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1045_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1046_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1047_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1048_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1049_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1050_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1051_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap1052_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="en_logowebsiteurl"><![CDATA[]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_buttontooltip"><![CDATA[Mail realtor]]></data>
+  <data name="en_buttononclick102374openurlwebsiteurl"><![CDATA[mailto:markbrande@aol.com]]></data>
+  <data name="en_button2tooltip"><![CDATA[Call realtor]]></data>
+  <data name="en_button2onclick102374openurlwebsiteurl"><![CDATA[http://call:7148757715]]></data>
+  <data name="en_extendedtitlecustomtitle"><![CDATA[Real Estate Lic. # 00818280]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
